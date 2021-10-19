@@ -1,0 +1,31 @@
+.mainheader {padding: 80px 0px 50px 0px;background-color:#DAD5D5; color:black; text-align:center;} 
+
+.background {background:#f5f5dc;}
+
+h1 {font-family: 'Shrikhand', cursive;}
+	
+h3 {font-family: 'Shrikhand', cursive;}
+	
+body {font-family: 'Raleway', sans-serif;}
+
+.box1 {margin: 20px 0px 0px 0px;}
+
+.box2 {margin: 20px 0px 0px 0px;}
+
+.title-bar {background-color:#3f37c9; 
+	position:fixed; 
+	width:1400px;
+	font-family: Raleway;
+}
+
+.firstcharacter {
+  color: #f72585;
+  float: left;
+  font-family: Roboto;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
