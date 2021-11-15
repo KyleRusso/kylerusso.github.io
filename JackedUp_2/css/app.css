@@ -1,0 +1,33 @@
+p {
+font-family: serif;
+}
+
+h1, h2, h3, h4, h5 {
+font-family: 'Anton', sans-serif;
+}
+
+h6 {
+font-family: sans-serif;
+}
+
+.subhead {
+background-color:#f4f4f4;
+}
+
+.photoRight {
+float:right;
+border:solid 1px #999;
+padding:3px;
+margin:0 0 20px 20px;
+font-size:.75rem;
+}
+
+.footerStyle {
+text-align:center;
+background-color:#f4f4f4;
+padding:20px;
+}
+
+.callout {
+background-color:#f9f9f9;	
+}
